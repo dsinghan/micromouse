@@ -1,3 +1,11 @@
-Micromouse project code.
+NAME: Dhruv Singhania
+EMAIL: singhania_dhruv@yahoo.com
 
-Code used to direct robot mouse to navigate maze.
+Micromouse Project
+
+Description:
+The UCLA IEEE Micromouse project was to build a small autonomous maze-solving robot to traverse a maze and find its way to a goal. My team of 3 had to print our own PCB, solder the micromouse all together, program it through the maze, and ultimately compete with other teams.
+While we were able to finish designing and printing our PCB, we were unable to continue our project due to COVID-19. Instead of coding for our robot, we concluded our project by writing code to allow a mouse to traverse a maze virtually.
+
+Included files:
+main.cpp - c++ source file allowing a mouse(^) to avoid walls (|) and reach a goal by performing a depth-first search algorithm
